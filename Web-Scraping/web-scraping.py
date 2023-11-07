@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 
 # Example of how to use BeautifulSoup to scrape data from a webpage
-# This is for educational purposes and should not be used without permission
 
 url = 'https://www.yorku.ca/'
 
